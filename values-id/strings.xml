@@ -2,7 +2,7 @@
     <string name="app_name">TheoTown</string>
     <string name="settings_title">Pengaturan</string>
     <string name="loadcity_title">Muat kota</string>
-    <string name="createcity_title">Kota baru</string>
+    <string name="createcity_title">BuKota baru</string>
     <string name="settings_defaults">Default</string>
     <string name="settings_apply">Terapkan</string>
     <string name="createcity_mapsize">Ukuran:</string>
@@ -27,7 +27,7 @@
     <string name="createcity_sizebig">Besar</string>
     <string name="createcity_sizeother">Lainnya</string>
     <string name="game_monthlyincome">%1$,+d</string>
-    <string name="game_estate">Perkebunan: %1$s</string>
+    <string name="game_estate">Uang: %1$s</string>
     <string name="game_rating">%1$,d</string>
     <string name="settings_resolutionlowlow">Sangat rendah</string>
     <string name="settings_resolutionlow">Rendah</string>
@@ -36,7 +36,7 @@
     <string name="settings_resolutionbigbig">Sangat besar</string>
     <string name="settings_resolution">Resolusi</string>
     <string name="dialog_nocities_title">Kota tidak ditemukan</string>
-    <string name="dialog_nocities_text">Mungkin tidak ditemukan kota lain.</string>
+    <string name="dialog_nocities_text">Tidak Ada kota Yang Ditemukan, Buatlah Kota baru.</string>
     <string name="dialog_nocities_cmdback">Kembali</string>
     <string name="dialog_nocities_cmdnewcity">Kota baru</string>
     <string name="settings_showads">Tunjukan iklan</string>
@@ -54,10 +54,10 @@
     <string name="settings_hideads_yes">Yes, I\'m really sure</string>
     <string name="settings_hideads_no">Kembali</string>
     <string name="loadcity_errordialog_title">Muatan gagal</string>
-    <string name="loadcity_errordialog_text">Tidak dapat memuat kota, kayaknya filenya rusak.\n\nMaaf.</string>
+    <string name="loadcity_errordialog_text">Tidak dapat memuat kota, Mungkin filenya rusak.\n\nMaaf.</string>
     <string name="loadcity_errordialog_cmdcancel">Kembali</string>
     <string name="dialog_screenshot_title">Screenshot diambil</string>
-    <string name="dialog_screenshot_text">The picture has been saved as %1$s.</string>
+    <string name="dialog_screenshot_text">Gambar Sudah disimpan di %1$s.</string>
     <string name="dialog_screenshot_cmdok">OK, terima kasih</string>
     <string name="draftselector_titleparks">Taman</string>
     <string name="draftselector_titlepublics">Umum</string>
@@ -72,7 +72,7 @@
     <string name="draftselector_monthlyprice">Harga bulanan: %s</string>
     <string name="draftselector_id">ID: %1$s</string>
     <string name="loadcity_cmddelete">Hapus</string>
-    <string name="loadcity_deletedialog_text">Apa kamu yakin ingin menghapus ini?</string>
+    <string name="loadcity_deletedialog_text">Apa kamu yakin ingin menghapus Kota ini?</string>
     <string name="loadcity_deletedialog_title">Hapus kota</string>
     <string name="loadcity_deletedialog_cmdcancel">Kembali</string>
     <string name="loadcity_deletedialog_cmddelete">Hapus</string>
