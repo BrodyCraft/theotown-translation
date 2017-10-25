@@ -37,7 +37,7 @@
     <string name="settings_resolutionbigbig">Sangat besar</string>
     <string name="settings_resolution">Resolusi</string>
     <string name="dialog_nocities_title">Kota tidak ditemukan</string>
-    <string name="dialog_nocities_text">Mungkin tidak ditemukan kota lain.</string>
+    <string name="dialog_nocities_text">Tidak Ada Kota Yang Ada. Buatlah Yang Baru.</string>
     <string name="dialog_nocities_cmdback">Kembali</string>
     <string name="dialog_nocities_cmdnewcity">Kota baru</string>
     <string name="settings_showads">Tunjukan iklan</string>
@@ -133,7 +133,7 @@
     <string name="draft_watertower00_text">Menyediakan air untuk bangunan.</string>
     <string name="settings_areazonetool">Gunakan alat area zona</string>
     <string name="createcity_gamemode">Gamemode:</string>
-    <string name="gamemode_sandbox">Sandbox</string>
+    <string name="gamemode_sandbox">Bebas</string>
     <string name="gamemode_easy">Mudah</string>
     <string name="gamemode_middle">Normal</string>
     <string name="gamemode_hard">Sulit</string>
@@ -145,7 +145,7 @@
     <string name="draftselector_titleaward">Penghargaan</string>
     <string name="shader_default">Klasik</string>
     <string name="shader_test">Tes</string>
-    <string name="settings_shader">Shader</string>
+    <string name="settings_shader">Kualitas Warna</string>
     <string name="shader_colorful">Penuh warna</string>
     <string name="shader_gray">Abu abu</string>
     <string name="shader_fancy">Mewah</string>
@@ -218,7 +218,7 @@
     <string name="draftselector_power">Listrik: %1$,dkW</string>
     <string name="draftselector_water">Air: %1$,dL/h</string>
     <string name="notify_welcome">Halo, selamat datang di %1$s.</string>
-    <string name="notify_citysize">Congratulations, your city exceeds a size of %1$,d inhabitants!</string>
+    <string name="notify_citysize">Selamat, Kota Anda mecapai %1$ Penduduk!</string>
     <string name="game_placedprice">%1$s</string>
     <string name="draft_waterfountain01_title">Air mancur</string>
     <string name="draft_waterfountain01_text">Habitants will like it.</string>
@@ -236,7 +236,7 @@
     <string name="buildinginfo_habitants">Penduduk: %1$,d/%2$,d</string>
     <string name="buildinginfo_worker">Pekerja: %1$,d/%2$,d</string>
     <string name="topic_giveup">Jangan menyerah!</string>
-    <string name="dialog_screenshot_error">Might not create save directory for %1$s. Please check app permissions.</string>
+    <string name="dialog_screenshot_error">Tidak bisa Menyimpan %1$s. Tolong Cek Pembolehan Handphone Anda.</string>
     <string name="settings_energysaving">Mode hemat energi</string>
     <string name="about_idea">Ide</string>
     <string name="about_programming">Programming</string>
@@ -358,7 +358,7 @@
     <string name="draft_footballstadion00_fanshop_title">Toko FANS</string>
     <string name="draft_footballstadion00_fanshop_text">Semua aksesoris dijual disini.</string>
     <string name="notify_requirementbuilding">Kamu membuka %1$s.</string>
-    <string name="notify_requirementupgrade">Congrats, you unlocked the upgrade %1$s for building %2$s!</string>
+    <string name="notify_requirementupgrade">Selamat, Anda membuka Upgrade %1$s Untuk Gedung/Bangunan %2$s!</string>
     <string name="draftselector_titlesports">Olahraga</string>
     <string name="draftselector_titlealert">Darurat</string>
     <string name="notify_fire">Kebakaran! Kirimkan truk pemadam kebakaran untuk memadamkan api. Pertimbangkan untuk membangun lebih banyak departemen pemadam kebakaran.</string>
@@ -374,7 +374,7 @@
     <string name="draft_alert_medic00_text">Ketika ada kecelakaan, kamu harus panggil ambulans.</string>
     <string name="buildinginfo_powerusage">Pemakaian: %1$.01f%%</string>
     <string name="buildinginfo_waterusage">Pemakaian: %1$.1f%%</string>
-    <string name="settings_maxzoomout">Max zoom out</string>
+    <string name="settings_maxzoomout">Jarak Kamera Terjauh</string>
     <string name="notify_noise">Terlalu bising!</string>
     <string name="happiness_energy">Listrik</string>
     <string name="happiness_gamemode">Game mode</string>
